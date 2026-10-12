@@ -4,6 +4,23 @@ A reusable Codex skill for turning a character reference into a minimalist Grokb
 
 本仓库提供一个可复用的 Codex Skill：把角色参考图转成极简吉祥物头像。它整理了多轮生成反馈中反复验证的规则，重点约束容易出错的正脸对视、头部倾斜方向、肤色、服装保留和角色专属发型细节。
 
+## Examples / 示例
+
+以下示例展示同一套头像规则如何适配不同发色、发型、配饰和服装。它们用于说明风格，不是每次生成都要照搬的角色设定。
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/examples/01-white-hair-cat-hat.png" alt="白发角色与猫咪头饰" width="220"><br>白发与猫咪头饰</td>
+    <td align="center"><img src="assets/examples/02-navy-hair-scarf.png" alt="深蓝发角色与青色围巾" width="220"><br>深蓝发与青色围巾</td>
+    <td align="center"><img src="assets/examples/03-ash-hair-plaid-scarf.png" alt="灰棕发角色与格纹围巾" width="220"><br>灰棕发与格纹围巾</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/examples/04-pink-hair-bob.png" alt="粉色短发角色" width="220"><br>粉色短发</td>
+    <td align="center"><img src="assets/examples/05-violet-hair-bun.png" alt="紫发盘发角色与围巾" width="220"><br>紫发盘发与围巾</td>
+    <td></td>
+  </tr>
+</table>
+
 ## Install
 
 Clone this repository into your Codex skills directory. On Windows, the default location is:
@@ -34,7 +51,7 @@ The skill uses an image-generation tool when the host makes one available. Witho
 
 ## Scope and rights
 
-The repository contains instructions and prompt text only; it does not include anime reference images or generated character art. Add example images only when you have the right to redistribute them. Prompts and textual materials are released under the MIT License in `LICENSE`.
+The skill instructions, prompt template, and documentation are released under the MIT License in `LICENSE`. The illustrative images in `assets/examples/` are excluded from that license. Some examples may depict third-party characters; their underlying character designs remain with their respective rights holders. Their inclusion demonstrates the workflow and does not grant permission to reuse those characters or images.
 
 ## Contributions
 
