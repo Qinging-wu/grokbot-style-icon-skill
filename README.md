@@ -6,8 +6,6 @@ A reusable Codex skill for turning a character reference into a minimalist Grokb
 
 ## Examples / 示例
 
-以下示例展示同一套头像规则如何适配不同发色、发型、配饰和服装。它们用于说明风格，不是每次生成都要照搬的角色设定。
-
 <table>
   <tr>
     <td align="center"><img src="assets/examples/01-white-hair-cat-hat.png" alt="White-haired character with cat hat" width="220"></td>
