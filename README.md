@@ -10,14 +10,14 @@ A reusable Codex skill for turning a character reference into a minimalist Grokb
 
 <table>
   <tr>
-    <td align="center"><img src="assets/examples/01-white-hair-cat-hat.png" alt="白发角色与猫咪头饰" width="220"><br>白发与猫咪头饰</td>
-    <td align="center"><img src="assets/examples/02-navy-hair-scarf.png" alt="深蓝发角色与青色围巾" width="220"><br>深蓝发与青色围巾</td>
-    <td align="center"><img src="assets/examples/03-ash-hair-plaid-scarf.png" alt="灰棕发角色与格纹围巾" width="220"><br>灰棕发与格纹围巾</td>
+    <td align="center"><img src="assets/examples/01-white-hair-cat-hat.png" alt="White-haired character with cat hat" width="220"></td>
+    <td align="center"><img src="assets/examples/02-navy-hair-scarf.png" alt="Navy-haired character with cyan scarf" width="220"></td>
+    <td align="center"><img src="assets/examples/03-ash-hair-plaid-scarf.png" alt="Ash-haired character with plaid scarf" width="220"></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/examples/04-pink-hair-bob.png" alt="粉色短发角色" width="220"><br>粉色短发</td>
-    <td align="center"><img src="assets/examples/05-violet-hair-bun.png" alt="紫发盘发角色与围巾" width="220"><br>紫发盘发与围巾</td>
-    <td></td>
+    <td align="center"><img src="assets/examples/04-pink-hair-bob.png" alt="Pink-haired character with bob cut" width="220"></td>
+    <td align="center"><img src="assets/examples/05-violet-hair-bun.png" alt="Violet-haired character with bun and scarf" width="220"></td>
+    <td align="center"><img src="assets/examples/06-cyan-halo-bow.png" alt="Cyan-haired character with halo and white bow" width="220"></td>
   </tr>
 </table>
 
