@@ -2,7 +2,7 @@
 
 A reusable Codex skill for turning a character reference into a minimalist Grokbot-style capsule-eye mascot icon. It captures the composition and visual constraints refined through repeated image-generation feedback, especially the failure-prone face direction, head-roll direction, skin-tone matching, clothing retention, and character-specific hair details.
 
-本仓库提供一个可复用的 Codex Skill：把角色参考图转成极简胶囊眼吉祥物头像。它整理了多轮生成反馈中反复验证的规则，重点约束容易出错的正脸对视、头部倾斜方向、肤色、服装保留和角色专属发型细节。
+本仓库提供一个可复用的 Codex Skill：把角色参考图转成极简吉祥物头像。它整理了多轮生成反馈中反复验证的规则，重点约束容易出错的正脸对视、头部倾斜方向、肤色、服装保留和角色专属发型细节。
 
 ## Install
 
